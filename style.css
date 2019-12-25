@@ -1,0 +1,15 @@
+body{
+    background-color: #cbd5db;
+}
+
+.form-control{
+        width: 100%;
+    }
+.centered2 {
+    position:relative;
+    top: 50%;
+    left: 50%;
+    width: 20%;
+    margin-top: 10px;
+    margin-left: -200px;
+    }
